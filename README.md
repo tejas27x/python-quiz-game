@@ -25,16 +25,6 @@ The game tests general knowledge with increasing difficulty levels and includes 
 
 ---
 
-## 📂 Project Structure
-python-quiz-game/
-│
-├── main.py                 # The main game file that runs everything
-├── utils.py                # Optional: helper functions (lifelines, score handling)
-├── questions.json          # All quiz questions stored in JSON format
-├── scores.txt              # Stores high scores or player's last score
-├── README.md               # Explains the project, how to play, and features
-├── LICENSE                 # Open-source license (MIT, Apache, etc.)
-├── .gitignore              # Files/folders to ignore (like __pycache__)
-├── requirements.txt        # Python version and dependencies (even if basic)
+
 
 
