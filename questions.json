@@ -1,0 +1,629 @@
+[
+  {
+    "question": "Who is Shah Rukh Khan?",
+    "options": [
+      "Wrestler",
+      "Plumber",
+      "Actor",
+      "Astronaut"
+    ],
+    "answer": 3,
+    "level": "easy"
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Berlin",
+      "Paris",
+      "Rome",
+      "London"
+    ],
+    "answer": 2,
+    "level": "easy"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Earth",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": 3,
+    "level": "easy"
+  },
+  {
+    "question": "FFC stands for?",
+    "options": [
+      "Foreign Finance Corporation",
+      "Film Finance Corporation",
+      "Federation of Football Council",
+      "None of the above"
+    ],
+    "answer": 2,
+    "level": "medium"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": [
+      "Harper Lee",
+      "J.K. Rowling",
+      "Mark Twain",
+      "Ernest Hemingway"
+    ],
+    "answer": 1,
+    "level": "medium"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "answer": 4,
+    "level": "medium"
+  },
+  {
+    "question": "In which year did World War II end?",
+    "options": [
+      "1944",
+      "1945",
+      "1946",
+      "1947"
+    ],
+    "answer": 2,
+    "level": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": [
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
+    ],
+    "answer": 1,
+    "level": "hard"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "answer": 3,
+    "level": "hard"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Seoul",
+      "Beijing",
+      "Tokyo",
+      "Bangkok"
+    ],
+    "answer": 3,
+    "level": "hard"
+  },
+  {
+    "question": "Which sport is known as 'America's Pastime'?",
+    "options": [
+      "Basketball",
+      "Football",
+      "Baseball",
+      "Soccer"
+    ],
+    "answer": 3,
+    "level": "easy"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Platinum"
+    ],
+    "answer": 3,
+    "level": "easy"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "Abraham Lincoln",
+      "George Washington",
+      "Thomas Jefferson",
+      "John Adams"
+    ],
+    "answer": 2,
+    "level": "easy"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "options": [
+      "Euro",
+      "Dollar",
+      "Pound Sterling",
+      "Yen"
+    ],
+    "answer": 3,
+    "level": "medium"
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Lithium",
+      "Beryllium"
+    ],
+    "answer": 2,
+    "level": "medium"
+  },
+  {
+    "question": "Who directed the movie 'Inception'?",
+    "options": [
+      "Steven Spielberg",
+      "Christopher Nolan",
+      "Martin Scorsese",
+      "Quentin Tarantino"
+    ],
+    "answer": 2,
+    "level": "medium"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": [
+      "Sahara Desert",
+      "Gobi Desert",
+      "Antarctic Desert",
+      "Arabian Desert"
+    ],
+    "answer": 3,
+    "level": "medium"
+  },
+  {
+    "question": "Which book series features the character Harry Potter?",
+    "options": [
+      "The Chronicles of Narnia",
+      "Harry Potter",
+      "The Lord of the Rings",
+      "Percy Jackson"
+    ],
+    "answer": 2,
+    "level": "hard"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "answer": 3,
+    "level": "hard"
+  },
+  {
+    "question": "Who won the Nobel Prize in Physics in 1905?",
+    "options": [
+      "Albert Einstein",
+      "Marie Curie",
+      "Isaac Newton",
+      "Niels Bohr"
+    ],
+    "answer": 1,
+    "level": "hard"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "answer": 2,
+    "level": "easy"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
+    ],
+    "answer": 3,
+    "level": "easy"
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": [
+      "Jane Austen",
+      "Charlotte Bront\u00c3\u00ab",
+      "Emily Bront\u00c3\u00ab",
+      "Louisa May Alcott"
+    ],
+    "answer": 1,
+    "level": "easy"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "options": [
+      "Rio de Janeiro",
+      "S\u00c3\u00a3o Paulo",
+      "Bras\u00c3\u00adlia",
+      "Salvador"
+    ],
+    "answer": 3,
+    "level": "medium"
+  },
+  {
+    "question": "Which sport uses a shuttlecock?",
+    "options": [
+      "Tennis",
+      "Badminton",
+      "Squash",
+      "Table Tennis"
+    ],
+    "answer": 2,
+    "level": "medium"
+  },
+  {
+    "question": "What is the process by which plants make their own food?",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Germination"
+    ],
+    "answer": 2,
+    "level": "medium"
+  },
+  {
+    "question": "Who was the first man to walk on the Moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "John Glenn"
+    ],
+    "answer": 3,
+    "level": "medium"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "answer": 3,
+    "level": "hard"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": 2,
+    "level": "hard"
+  },
+  {
+    "question": "Who painted 'The Starry Night'?",
+    "options": [
+      "Claude Monet",
+      "Vincent van Gogh",
+      "Paul Gauguin",
+      "Georges Seurat"
+    ],
+    "answer": 2,
+    "level": "hard"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": [
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "answer": 2,
+    "level": "easy"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": [
+      "China",
+      "Japan",
+      "Thailand",
+      "South Korea"
+    ],
+    "answer": 2,
+    "level": "easy"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": 3,
+    "level": "easy"
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "options": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "Philip K. Dick"
+    ],
+    "answer": 2,
+    "level": "medium"
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Mumbai",
+      "Delhi",
+      "Kolkata",
+      "Chennai"
+    ],
+    "answer": 2,
+    "level": "medium"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Au'?",
+    "options": [
+      "Silver",
+      "Gold",
+      "Copper",
+      "Iron"
+    ],
+    "answer": 2,
+    "level": "medium"
+  },
+  {
+    "question": "Who directed 'The Godfather'?",
+    "options": [
+      "Francis Ford Coppola",
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Alfred Hitchcock"
+    ],
+    "answer": 1,
+    "level": "medium"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "options": [
+      "Monaco",
+      "Nauru",
+      "Vatican City",
+      "San Marino"
+    ],
+    "answer": 3,
+    "level": "hard"
+  },
+  {
+    "question": "Which sport is played with a puck?",
+    "options": [
+      "Hockey",
+      "Lacrosse",
+      "Cricket",
+      "Baseball"
+    ],
+    "answer": 1,
+    "level": "hard"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": [
+      "HCl",
+      "NaCl",
+      "KCl",
+      "CaCl2"
+    ],
+    "answer": 2,
+    "level": "hard"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Marie Curie",
+      "Rosalind Franklin",
+      "Lise Meitner",
+      "Ir\u00c3\u00a8ne Joliot-Curie"
+    ],
+    "answer": 1,
+    "level": "easy"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "options": [
+      "St. Petersburg",
+      "Moscow",
+      "Kiev",
+      "Warsaw"
+    ],
+    "answer": 2,
+    "level": "easy"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": 2,
+    "level": "easy"
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "answer": 1,
+    "level": "medium"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "options": [
+      "Alexandria",
+      "Cairo",
+      "Luxor",
+      "Aswan"
+    ],
+    "answer": 2,
+    "level": "medium"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "answer": 3,
+    "level": "medium"
+  },
+  {
+    "question": "Who painted 'The Last Supper'?",
+    "options": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Raphael",
+      "Donatello"
+    ],
+    "answer": 2,
+    "level": "medium"
+  },
+  {
+    "question": "What is the largest continent?",
+    "options": [
+      "Africa",
+      "Asia",
+      "North America",
+      "Europe"
+    ],
+    "answer": 2,
+    "level": "hard"
+  },
+  {
+    "question": "Which sport originated in England?",
+    "options": [
+      "Cricket",
+      "Basketball",
+      "Tennis",
+      "Golf"
+    ],
+    "answer": 1,
+    "level": "hard"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": [
+      "90",
+      "95",
+      "100",
+      "105"
+    ],
+    "answer": 3,
+    "level": "hard"
+  },
+  {
+    "question": "Who was the first Prime Minister of India?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Sardar Patel"
+    ],
+    "answer": 2,
+    "level": "easy"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "options": [
+      "Munich",
+      "Berlin",
+      "Hamburg",
+      "Frankfurt"
+    ],
+    "answer": 2,
+    "level": "easy"
+  },
+  {
+    "question": "Which vitamin is produced when skin is exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": 4,
+    "level": "easy"
+  },
+  {
+    "question": "Who wrote 'The Catcher in the Rye'?",
+    "options": [
+      "J.D. Salinger",
+      "Jack Kerouac",
+      "Allen Ginsberg",
+      "Sylvia Plath"
+    ],
+    "answer": 1,
+    "level": "medium"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "options": [
+      "Cape Town",
+      "Johannesburg",
+      "Pretoria",
+      "Durban"
+    ],
+    "answer": 3,
+    "level": "medium"
+  },
+  {
+    "question": "Which element has the symbol 'Fe'?",
+    "options": [
+      "Fluorine",
+      "Iron",
+      "Fermium",
+      "Francium"
+    ],
+    "answer": 2,
+    "level": "medium"
+  },
+  {
+    "question": "Who directed 'Pulp Fiction'?",
+    "options": [
+      "Quentin Tarantino",
+      "David Lynch",
+      "Coen Brothers",
+      "Wes Anderson"
+    ],
+    "answer": 1,
+    "level": "medium"
+  }
+]
